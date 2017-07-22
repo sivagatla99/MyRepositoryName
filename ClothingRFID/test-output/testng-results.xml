@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23292" started-at="2017-07-21T05:01:25Z" finished-at="2017-07-21T05:01:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23292" started-at="2017-07-21T05:01:25Z" finished-at="2017-07-21T05:01:48Z">
+      <class name="org.clothingrfid.smoke.TestSmokeLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="setUp" is-config="true" duration-ms="6980" started-at="2017-07-21T10:31:25Z" finished-at="2017-07-21T10:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSmokeInvalidLoginTC002()[pri:0, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="testSmokeInvalidLoginTC002" duration-ms="1886" started-at="2017-07-21T10:31:32Z" finished-at="2017-07-21T10:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSmokeInvalidLoginTC002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="tearDown" is-config="true" duration-ms="174" started-at="2017-07-21T10:31:34Z" finished-at="2017-07-21T10:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="setUp" is-config="true" duration-ms="6464" started-at="2017-07-21T10:31:34Z" finished-at="2017-07-21T10:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSmokeLoginTC001()[pri:1, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="testSmokeLoginTC001" duration-ms="7501" started-at="2017-07-21T10:31:40Z" finished-at="2017-07-21T10:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSmokeLoginTC001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.clothingrfid.smoke.TestSmokeLogin@2b98378d]" name="tearDown" is-config="true" duration-ms="270" started-at="2017-07-21T10:31:48Z" finished-at="2017-07-21T10:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.clothingrfid.smoke.TestSmokeLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
